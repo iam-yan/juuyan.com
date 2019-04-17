@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/brainBottle_struct.2c4f30a5.jpg"
   },
   {
-    "revision": "ffb15d4109368c3ae53c",
+    "revision": "1becfd7987ff0a214ba8",
     "url": "/static/css/main.8ff685c5.chunk.css"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/static/media/swing_mascot.bb839475.png"
   },
   {
-    "revision": "21a1ad7d269d9ecd5cab50f72632ff50",
-    "url": "/static/media/audience.21a1ad7d.jpg"
+    "revision": "ebadd2c13f5f3f13cd72eaac45996b7c",
+    "url": "/static/media/audience.ebadd2c1.jpg"
   },
   {
     "revision": "71ce12d76960f99a344d8a8633d51a5c",
@@ -52,56 +52,56 @@ self.__precacheManifest = [
     "url": "/static/media/kyub.d2a54f62.jpg"
   },
   {
-    "revision": "ef3d8f5e9dc922507dd900f454ab5691",
-    "url": "/static/media/rawData.ef3d8f5e.jpg"
+    "revision": "f24a18f6cf5ab44f6c3d9ce05db04d6c",
+    "url": "/static/media/rawData.f24a18f6.jpg"
   },
   {
     "revision": "886dd5dab9019ea0a1c4e7ca7a2ce81a",
     "url": "/static/media/swing.886dd5da.jpg"
   },
   {
-    "revision": "4fac0b6a20c09c0584bf9857d912ecbc",
-    "url": "/static/media/audience_flow.4fac0b6a.jpg"
+    "revision": "f3ded236b6b485535fdae22295a07d06",
+    "url": "/static/media/audience_flow.f3ded236.jpg"
   },
   {
     "revision": "d61fbf2d100daa64e8ad4dff4a9e46dc",
     "url": "/static/media/chart_research_table.d61fbf2d.jpg"
   },
   {
-    "revision": "68806a443d7cef1b19d0f8d9db82767a",
-    "url": "/static/media/charts_design.68806a44.jpg"
+    "revision": "c5296a5f5011070e8c9b9df757d3c8f3",
+    "url": "/static/media/charts_design.c5296a5f.jpg"
   },
   {
-    "revision": "ed9777c712f088542d3d5c21ba58484a",
-    "url": "/static/media/context.ed9777c7.jpg"
+    "revision": "99b2ab256b474afef5ea929a1bc0fa6c",
+    "url": "/static/media/context.99b2ab25.jpg"
   },
   {
-    "revision": "099dd4f4176cf6d3d0538ba0ecd481eb",
-    "url": "/static/media/freeze.099dd4f4.jpg"
+    "revision": "4ad52d72bb6c870564a65abecc34f81a",
+    "url": "/static/media/freeze.4ad52d72.jpg"
   },
   {
     "revision": "fedfd16086340a3add3794fafea2b100",
     "url": "/static/media/layout.fedfd160.gif"
   },
   {
-    "revision": "a8417bff5cf184e68145e8e507cd862b",
-    "url": "/static/media/pie_chart_types.a8417bff.jpg"
+    "revision": "2fe7f36277a5d4a11b242888b8d3b607",
+    "url": "/static/media/pie_chart_types.2fe7f362.jpg"
   },
   {
     "revision": "9863aacdc499d4136cf7234fa091ba71",
     "url": "/static/media/radar_chart.9863aacd.jpg"
   },
   {
-    "revision": "cb5f0a204b67e17a6ae04bd9f262647d",
-    "url": "/static/media/mock_analysis.cb5f0a20.jpg"
+    "revision": "0ad5a2493232bd09daf3b1febb9be1a8",
+    "url": "/static/media/mock_analysis.0ad5a249.jpg"
   },
   {
-    "revision": "2e98fa506df347dace2d5e3b8e93bf3e",
-    "url": "/static/media/mock_conversation.2e98fa50.jpg"
+    "revision": "017f07292af86477b71aed1611220da3",
+    "url": "/static/media/mock_conversation.017f0729.jpg"
   },
   {
-    "revision": "cd4f5d8c9d1434b2c5c3c822328aef4e",
-    "url": "/static/media/mock_list.cd4f5d8c.jpg"
+    "revision": "ac3e190893e1c1b536aa7003c9ed55fa",
+    "url": "/static/media/mock_list.ac3e1908.jpg"
   },
   {
     "revision": "759e334c89cb9ca9b9ce3871399b8242",
@@ -136,8 +136,8 @@ self.__precacheManifest = [
     "url": "/static/media/character_5.a3bb4dba.jpg"
   },
   {
-    "revision": "ffb15d4109368c3ae53c",
-    "url": "/static/js/main.7ecb8994.chunk.js"
+    "revision": "1becfd7987ff0a214ba8",
+    "url": "/static/js/main.440b9820.chunk.js"
   },
   {
     "revision": "74324bd94f5f6730a877faa71bdcae31",
@@ -240,8 +240,8 @@ self.__precacheManifest = [
     "url": "/static/media/legacy_logic.ea7e59af.jpg"
   },
   {
-    "revision": "6e18b3920ddd90e4d2533ad8b76ed785",
-    "url": "/static/media/mock_1.6e18b392.jpg"
+    "revision": "41076bf61eb7202b9d9186e3021dca6f",
+    "url": "/static/media/mock_1.41076bf6.jpg"
   },
   {
     "revision": "144cf30543c6b61e6f845efadd1c5c5c",
@@ -268,7 +268,7 @@ self.__precacheManifest = [
     "url": "/static/media/mock_3.a2a72fea.jpg"
   },
   {
-    "revision": "b6e170515d23fcd0f1623964d8a9ca10",
+    "revision": "f5d83abf3ab81a47c0d02942c6d83380",
     "url": "/index.html"
   }
 ];
