@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "2c4f30a5b60dce1badee077a7c3ff84d",
-    "url": "/static/media/brainBottle_struct.2c4f30a5.jpg"
+    "revision": "a3bb4dba275914be32a997d78fa4ef9e",
+    "url": "/static/media/character_5.a3bb4dba.jpg"
   },
   {
-    "revision": "cfd773450673a1e2b050",
+    "revision": "3caf660884c7571fc145",
     "url": "/static/css/main.8ff685c5.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "dafe8665d462c70224c0",
-    "url": "/static/js/2.c776ffbc.chunk.js"
+    "revision": "9c976e2aa6619b77721a",
+    "url": "/static/js/2.2987abdd.chunk.js"
   },
   {
     "revision": "3c32329cafbf521d0a52250033dac2b9",
@@ -104,6 +104,14 @@ self.__precacheManifest = [
     "url": "/static/media/mock_list.ac3e1908.jpg"
   },
   {
+    "revision": "fa6676b90d981402d7041475e7ae62a0",
+    "url": "/static/media/legacy_analysis.fa6676b9.jpg"
+  },
+  {
+    "revision": "375fec714abfb7db060ded881f991dc8",
+    "url": "/static/media/legacy_audience.375fec71.jpg"
+  },
+  {
     "revision": "759e334c89cb9ca9b9ce3871399b8242",
     "url": "/static/media/ani_basic.759e334c.gif"
   },
@@ -132,12 +140,12 @@ self.__precacheManifest = [
     "url": "/static/media/character_4.2e8128aa.jpg"
   },
   {
-    "revision": "a3bb4dba275914be32a997d78fa4ef9e",
-    "url": "/static/media/character_5.a3bb4dba.jpg"
+    "revision": "3caf660884c7571fc145",
+    "url": "/static/js/main.18a3b0db.chunk.js"
   },
   {
-    "revision": "cfd773450673a1e2b050",
-    "url": "/static/js/main.eb56530f.chunk.js"
+    "revision": "2c4f30a5b60dce1badee077a7c3ff84d",
+    "url": "/static/media/brainBottle_struct.2c4f30a5.jpg"
   },
   {
     "revision": "74324bd94f5f6730a877faa71bdcae31",
@@ -268,7 +276,7 @@ self.__precacheManifest = [
     "url": "/static/media/mock_3.a2a72fea.jpg"
   },
   {
-    "revision": "96564a47256c27cd95ac2ded7800ae3b",
+    "revision": "5295ff9a925d94107704539db379c11f",
     "url": "/index.html"
   }
 ];
