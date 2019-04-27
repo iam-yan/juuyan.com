@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "a3bb4dba275914be32a997d78fa4ef9e",
-    "url": "/static/media/character_5.a3bb4dba.jpg"
+    "revision": "74324bd94f5f6730a877faa71bdcae31",
+    "url": "/static/media/brainBottle_sketch.74324bd9.jpg"
   },
   {
-    "revision": "2cea6d57e23bff27ff06",
+    "revision": "7720cd8fc63b0151e928",
     "url": "/static/css/main.6c0d7914.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "5d57c377ca181ef596cc",
-    "url": "/static/js/2.888e6401.chunk.js"
+    "revision": "a9f0d6ec36e019b0326d",
+    "url": "/static/js/2.65ecae07.chunk.js"
   },
   {
     "revision": "3c32329cafbf521d0a52250033dac2b9",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/static/media/swing_mascot.bb839475.png"
   },
   {
-    "revision": "ebadd2c13f5f3f13cd72eaac45996b7c",
-    "url": "/static/media/audience.ebadd2c1.jpg"
+    "revision": "0d9d16b9d5655fcc24b2527530396ac1",
+    "url": "/static/media/audience.0d9d16b9.jpg"
   },
   {
     "revision": "71ce12d76960f99a344d8a8633d51a5c",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/static/media/kyub.d2a54f62.jpg"
   },
   {
-    "revision": "f24a18f6cf5ab44f6c3d9ce05db04d6c",
-    "url": "/static/media/rawData.f24a18f6.jpg"
+    "revision": "ff37d76402b0d1535d3efcdf05a82c72",
+    "url": "/static/media/rawData.ff37d764.jpg"
   },
   {
     "revision": "886dd5dab9019ea0a1c4e7ca7a2ce81a",
@@ -140,16 +140,16 @@ self.__precacheManifest = [
     "url": "/static/media/character_4.2e8128aa.jpg"
   },
   {
-    "revision": "2cea6d57e23bff27ff06",
-    "url": "/static/js/main.f8019485.chunk.js"
+    "revision": "a3bb4dba275914be32a997d78fa4ef9e",
+    "url": "/static/media/character_5.a3bb4dba.jpg"
   },
   {
     "revision": "2c4f30a5b60dce1badee077a7c3ff84d",
     "url": "/static/media/brainBottle_struct.2c4f30a5.jpg"
   },
   {
-    "revision": "74324bd94f5f6730a877faa71bdcae31",
-    "url": "/static/media/brainBottle_sketch.74324bd9.jpg"
+    "revision": "7720cd8fc63b0151e928",
+    "url": "/static/js/main.99c87cb9.chunk.js"
   },
   {
     "revision": "7743a71b99544926f646804122f9fe6e",
@@ -240,28 +240,40 @@ self.__precacheManifest = [
     "url": "/static/media/ui_2.c67fd6e6.jpg"
   },
   {
-    "revision": "63c02ecbb2611137040056295ad01634",
-    "url": "/static/media/flow.63c02ecb.jpg"
+    "revision": "5263b5cae7d7f70c713049bde32101db",
+    "url": "/static/media/claps.5263b5ca.jpg"
   },
   {
-    "revision": "ea7e59af8287095b3211da176b84a70b",
-    "url": "/static/media/legacy_logic.ea7e59af.jpg"
+    "revision": "a01e1c5c534afc16b11c18f6175ead33",
+    "url": "/static/media/flow.a01e1c5c.jpg"
   },
   {
-    "revision": "de4d07d19285e7d292e7558c4d61ac39",
-    "url": "/static/media/legacyDesign.de4d07d1.jpg"
+    "revision": "fa50338a0605a544879eb8138744b55f",
+    "url": "/static/media/legacy_logic.fa50338a.jpg"
   },
   {
-    "revision": "41076bf61eb7202b9d9186e3021dca6f",
-    "url": "/static/media/mock_1.41076bf6.jpg"
+    "revision": "a1da0fcd90502b9f1f0f24f2b9d1b395",
+    "url": "/static/media/legacyDesign.a1da0fcd.jpg"
   },
   {
-    "revision": "144cf30543c6b61e6f845efadd1c5c5c",
-    "url": "/static/media/new_logic.144cf305.jpg"
+    "revision": "ba06f396a2b569c9dadf27b56c5e28e6",
+    "url": "/static/media/mock_1.ba06f396.jpg"
   },
   {
-    "revision": "6f0adbd0c1acb996bd50747339460023",
-    "url": "/static/media/progress.6f0adbd0.jpg"
+    "revision": "a399ea1b2eb62b2530782a6c2843199b",
+    "url": "/static/media/mock_addSubscription.a399ea1b.jpg"
+  },
+  {
+    "revision": "636a3570df0192fdcf93d742a081de69",
+    "url": "/static/media/mock_flow.636a3570.jpg"
+  },
+  {
+    "revision": "9c04c3a6109b9865e29c476e61af4a45",
+    "url": "/static/media/new_logic.9c04c3a6.jpg"
+  },
+  {
+    "revision": "749d4fa1c89d91873786cadfebe35d5b",
+    "url": "/static/media/research.749d4fa1.jpg"
   },
   {
     "revision": "778cf24f25dcd604a7a2f8ab1a1734cf",
@@ -280,7 +292,11 @@ self.__precacheManifest = [
     "url": "/static/media/mock_3.a2a72fea.jpg"
   },
   {
-    "revision": "3214c393407676f449ab9d2da415554e",
+    "revision": "6f0adbd0c1acb996bd50747339460023",
+    "url": "/static/media/progress.6f0adbd0.jpg"
+  },
+  {
+    "revision": "22e824b7701ee686013039ce4cd986ae",
     "url": "/index.html"
   }
 ];
