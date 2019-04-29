@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/brainBottle_sketch.74324bd9.jpg"
   },
   {
-    "revision": "7720cd8fc63b0151e928",
+    "revision": "46dcdbb71f1562982dba",
     "url": "/static/css/main.6c0d7914.chunk.css"
   },
   {
@@ -64,20 +64,20 @@ self.__precacheManifest = [
     "url": "/static/media/audience_flow.f3ded236.jpg"
   },
   {
-    "revision": "d61fbf2d100daa64e8ad4dff4a9e46dc",
-    "url": "/static/media/chart_research_table.d61fbf2d.jpg"
+    "revision": "816ad5d53176355b971f4c9dc1db4ff5",
+    "url": "/static/media/chart_research_table.816ad5d5.jpg"
   },
   {
     "revision": "c5296a5f5011070e8c9b9df757d3c8f3",
     "url": "/static/media/charts_design.c5296a5f.jpg"
   },
   {
-    "revision": "99b2ab256b474afef5ea929a1bc0fa6c",
-    "url": "/static/media/context.99b2ab25.jpg"
+    "revision": "f654bf34552fef0d6443617782dcad81",
+    "url": "/static/media/context.f654bf34.jpg"
   },
   {
-    "revision": "4ad52d72bb6c870564a65abecc34f81a",
-    "url": "/static/media/freeze.4ad52d72.jpg"
+    "revision": "f0c53a5a477f1624268cc6323f0937e3",
+    "url": "/static/media/freeze.f0c53a5a.jpg"
   },
   {
     "revision": "fedfd16086340a3add3794fafea2b100",
@@ -88,28 +88,28 @@ self.__precacheManifest = [
     "url": "/static/media/pie_chart_types.2fe7f362.jpg"
   },
   {
-    "revision": "9863aacdc499d4136cf7234fa091ba71",
-    "url": "/static/media/radar_chart.9863aacd.jpg"
+    "revision": "c12d909aa9cf805df89f7aba6f044fdf",
+    "url": "/static/media/mock_analysis.c12d909a.jpg"
   },
   {
-    "revision": "0ad5a2493232bd09daf3b1febb9be1a8",
-    "url": "/static/media/mock_analysis.0ad5a249.jpg"
+    "revision": "86589d903451f75ef26f36e0bc9228a5",
+    "url": "/static/media/mock_conversation.86589d90.jpg"
   },
   {
-    "revision": "017f07292af86477b71aed1611220da3",
-    "url": "/static/media/mock_conversation.017f0729.jpg"
+    "revision": "d60353177d75ce69963281406bcc9441",
+    "url": "/static/media/mock_list.d6035317.jpg"
   },
   {
-    "revision": "ac3e190893e1c1b536aa7003c9ed55fa",
-    "url": "/static/media/mock_list.ac3e1908.jpg"
+    "revision": "94c83ae67b70aca3934a877f83128e33",
+    "url": "/static/media/radar_chart.94c83ae6.jpg"
   },
   {
-    "revision": "fa6676b90d981402d7041475e7ae62a0",
-    "url": "/static/media/legacy_analysis.fa6676b9.jpg"
+    "revision": "e4d7d25b54497cbd3237dc748f181700",
+    "url": "/static/media/research.e4d7d25b.jpg"
   },
   {
-    "revision": "375fec714abfb7db060ded881f991dc8",
-    "url": "/static/media/legacy_audience.375fec71.jpg"
+    "revision": "aa821786eafdce342c7bbcb95841d1cb",
+    "url": "/static/media/legacy_audience.aa821786.jpg"
   },
   {
     "revision": "759e334c89cb9ca9b9ce3871399b8242",
@@ -148,8 +148,8 @@ self.__precacheManifest = [
     "url": "/static/media/brainBottle_struct.2c4f30a5.jpg"
   },
   {
-    "revision": "7720cd8fc63b0151e928",
-    "url": "/static/js/main.99c87cb9.chunk.js"
+    "revision": "46dcdbb71f1562982dba",
+    "url": "/static/js/main.deb7c4ba.chunk.js"
   },
   {
     "revision": "7743a71b99544926f646804122f9fe6e",
@@ -260,8 +260,8 @@ self.__precacheManifest = [
     "url": "/static/media/mock_1.ba06f396.jpg"
   },
   {
-    "revision": "a399ea1b2eb62b2530782a6c2843199b",
-    "url": "/static/media/mock_addSubscription.a399ea1b.jpg"
+    "revision": "b291288109c3422b66315ad47fc346e6",
+    "url": "/static/media/mock_addSubscription.b2912881.jpg"
   },
   {
     "revision": "636a3570df0192fdcf93d742a081de69",
@@ -292,11 +292,11 @@ self.__precacheManifest = [
     "url": "/static/media/mock_3.a2a72fea.jpg"
   },
   {
-    "revision": "6f0adbd0c1acb996bd50747339460023",
-    "url": "/static/media/progress.6f0adbd0.jpg"
+    "revision": "fa6676b90d981402d7041475e7ae62a0",
+    "url": "/static/media/legacy_analysis.fa6676b9.jpg"
   },
   {
-    "revision": "22e824b7701ee686013039ce4cd986ae",
+    "revision": "5b058c8c63b9cd2295431a7550b8e272",
     "url": "/index.html"
   }
 ];
