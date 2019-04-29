@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/brainBottle_struct.2c4f30a5.jpg"
   },
   {
-    "revision": "4eedcdc60be7eea2ae97",
+    "revision": "aeee627a6cb905961778",
     "url": "/static/css/main.6c0d7914.chunk.css"
   },
   {
@@ -88,20 +88,20 @@ self.__precacheManifest = [
     "url": "/static/media/pie_chart_types.2fe7f362.jpg"
   },
   {
-    "revision": "c12d909aa9cf805df89f7aba6f044fdf",
-    "url": "/static/media/mock_analysis.c12d909a.jpg"
+    "revision": "4278dec56631928f6a4b3d794ffd361f",
+    "url": "/static/media/mock_analysis.4278dec5.jpg"
   },
   {
-    "revision": "2938dedf47585cf248ee2903edad2637",
-    "url": "/static/media/mock_conversation.2938dedf.jpg"
+    "revision": "b2cf787aaa2ecc20de45670cd48e4d20",
+    "url": "/static/media/mock_conversation.b2cf787a.jpg"
   },
   {
-    "revision": "22bd9b4a3ac06500d92c613a2e0b68d2",
-    "url": "/static/media/mock_flow.22bd9b4a.jpg"
+    "revision": "08c13c209f8f14ce8552191817e26929",
+    "url": "/static/media/mock_flow.08c13c20.jpg"
   },
   {
-    "revision": "d60353177d75ce69963281406bcc9441",
-    "url": "/static/media/mock_list.d6035317.jpg"
+    "revision": "59f3b7fb79b10375b0f852737c6c2dda",
+    "url": "/static/media/mock_list.59f3b7fb.jpg"
   },
   {
     "revision": "94c83ae67b70aca3934a877f83128e33",
@@ -148,8 +148,8 @@ self.__precacheManifest = [
     "url": "/static/media/character_5.a3bb4dba.jpg"
   },
   {
-    "revision": "4eedcdc60be7eea2ae97",
-    "url": "/static/js/main.041888a3.chunk.js"
+    "revision": "aeee627a6cb905961778",
+    "url": "/static/js/main.4d186e46.chunk.js"
   },
   {
     "revision": "74324bd94f5f6730a877faa71bdcae31",
@@ -296,7 +296,7 @@ self.__precacheManifest = [
     "url": "/static/media/mock_3.a2a72fea.jpg"
   },
   {
-    "revision": "27bc57744b0996fe067faecd870865bb",
+    "revision": "f1e338f732e79010a7d2956d329b6950",
     "url": "/index.html"
   }
 ];
