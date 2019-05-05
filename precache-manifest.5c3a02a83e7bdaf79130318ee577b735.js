@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/brainBottle_struct.2c4f30a5.jpg"
   },
   {
-    "revision": "e3dc018035b69c2f744e",
+    "revision": "ff4f7112d7a3f6ea2581",
     "url": "/static/css/main.6c0d7914.chunk.css"
   },
   {
@@ -148,8 +148,8 @@ self.__precacheManifest = [
     "url": "/static/media/character_5.a3bb4dba.jpg"
   },
   {
-    "revision": "e3dc018035b69c2f744e",
-    "url": "/static/js/main.2fbd97b6.chunk.js"
+    "revision": "ff4f7112d7a3f6ea2581",
+    "url": "/static/js/main.0cc77750.chunk.js"
   },
   {
     "revision": "74324bd94f5f6730a877faa71bdcae31",
@@ -296,7 +296,7 @@ self.__precacheManifest = [
     "url": "/static/media/mock_3.a2a72fea.jpg"
   },
   {
-    "revision": "70ebd943d4c1ecb3f6d8d67849d9bcd3",
+    "revision": "2987a5dc7c70e19d70dab8ba19f27e5a",
     "url": "/index.html"
   }
 ];
