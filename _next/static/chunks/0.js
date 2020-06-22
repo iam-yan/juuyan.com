@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[0],{
 
 /***/ "../../node_modules/next/dist/client/dev/noop.js":
-/*!************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/client/dev/noop.js ***!
-  \************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/client/dev/noop.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/_error.js"],{
 
 /***/ "../../node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=next%2Fdist%2Fpages%2F_error!./":
-/*!********************************************************************************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=next%2Fdist%2Fpages%2F_error ***!
-  \********************************************************************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=next%2Fdist%2Fpages%2F_error ***!
+  \****************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24,9 +24,9 @@
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/amp-context.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/next-server/lib/amp-context.js ***!
-  \************************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/next-server/lib/amp-context.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -54,9 +54,9 @@ exports.AmpStateContext = React.createContext({});
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/amp.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/next-server/lib/amp.js ***!
-  \****************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/next-server/lib/amp.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -101,9 +101,9 @@ exports.useAmp = useAmp;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/head-manager-context.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/next-server/lib/head-manager-context.js ***!
-  \*********************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/next-server/lib/head-manager-context.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -131,9 +131,9 @@ exports.HeadManagerContext = React.createContext(null);
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/head.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/next-server/lib/head.js ***!
-  \*****************************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/next-server/lib/head.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -308,9 +308,9 @@ exports["default"] = Head;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/next-server/lib/side-effect.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/next-server/lib/side-effect.js ***!
-  \************************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/next-server/lib/side-effect.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -417,9 +417,9 @@ exports["default"] = function () {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/pages/_error.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/pages/_error.js ***!
-  \*********************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/pages/_error.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -549,9 +549,9 @@ var styles = {
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js ***!
-  \*********************************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/arrayWithoutHoles.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -570,9 +570,9 @@ module.exports = _arrayWithoutHoles;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/assertThisInitialized.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/assertThisInitialized.js ***!
-  \*************************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/assertThisInitialized.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -589,9 +589,9 @@ module.exports = _assertThisInitialized;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/classCallCheck.js":
-/*!******************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/classCallCheck.js ***!
-  \******************************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/classCallCheck.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -606,9 +606,9 @@ module.exports = _classCallCheck;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/createClass.js":
-/*!***************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/createClass.js ***!
-  \***************************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/createClass.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -633,9 +633,9 @@ module.exports = _createClass;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/getPrototypeOf.js":
-/*!******************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/getPrototypeOf.js ***!
-  \******************************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/getPrototypeOf.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -651,9 +651,9 @@ module.exports = _getPrototypeOf;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/inherits.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/inherits.js ***!
-  \************************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/inherits.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -679,9 +679,9 @@ module.exports = _inherits;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
-  \*************************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -696,9 +696,9 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/iterableToArray.js":
-/*!*******************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/iterableToArray.js ***!
-  \*******************************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/iterableToArray.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -711,9 +711,9 @@ module.exports = _iterableToArray;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/nonIterableSpread.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/nonIterableSpread.js ***!
-  \*********************************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/nonIterableSpread.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -726,9 +726,9 @@ module.exports = _nonIterableSpread;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js":
-/*!*****************************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js ***!
-  \*****************************************************************************************************************************************/
+/*!*************************************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/possibleConstructorReturn.js ***!
+  \*************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -749,9 +749,9 @@ module.exports = _possibleConstructorReturn;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/setPrototypeOf.js":
-/*!******************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/setPrototypeOf.js ***!
-  \******************************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/setPrototypeOf.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -769,9 +769,9 @@ module.exports = _setPrototypeOf;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/toConsumableArray.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/toConsumableArray.js ***!
-  \*********************************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/toConsumableArray.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -790,9 +790,9 @@ module.exports = _toConsumableArray;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/typeof.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/typeof.js ***!
-  \**********************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/typeof.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 

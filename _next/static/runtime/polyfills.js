@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/runtime/polyfills.js"],{
 
 /***/ "../../node_modules/@next/polyfill-nomodule/dist/polyfill-nomodule.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/@next/polyfill-nomodule/dist/polyfill-nomodule.js ***!
-  \*********************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/@next/polyfill-nomodule/dist/polyfill-nomodule.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14,9 +14,9 @@
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/polyfills.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/client/polyfills.js ***!
-  \*************************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/client/polyfills.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

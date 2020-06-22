@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/runtime/amp.js"],{
 
 /***/ "../../node_modules/next/dist/build/polyfills/fetch/index.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/build/polyfills/fetch/index.js ***!
-  \************************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/build/polyfills/fetch/index.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -13,9 +13,9 @@
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/dev/amp-dev.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/client/dev/amp-dev.js ***!
-  \***************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/client/dev/amp-dev.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -153,9 +153,9 @@ function tryApplyUpdates() {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/dev/error-overlay/eventsource.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/client/dev/error-overlay/eventsource.js ***!
-  \*********************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/client/dev/error-overlay/eventsource.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -240,9 +240,9 @@ function getEventSourceWrapper(options) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/dev/event-source-polyfill.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/client/dev/event-source-polyfill.js ***!
-  \*****************************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/client/dev/event-source-polyfill.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1189,9 +1189,9 @@ exports["default"] = _default;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/dev/fouc.js":
-/*!************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/client/dev/fouc.js ***!
-  \************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/client/dev/fouc.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1220,9 +1220,9 @@ function displayContent(callback) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/client/dev/on-demand-entries-utils.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/dist/client/dev/on-demand-entries-utils.js ***!
-  \*******************************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/dist/client/dev/on-demand-entries-utils.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1290,9 +1290,9 @@ function setupPing(assetPrefix, pathnameFn, retry) {
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
-  \*************************************************************************************************************************************/
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/helpers/interopRequireDefault.js ***!
+  \*********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -1307,9 +1307,9 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/regenerator/index.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/next/node_modules/@babel/runtime/regenerator/index.js ***!
-  \*************************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/next/node_modules/@babel/runtime/regenerator/index.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1319,9 +1319,9 @@ module.exports = __webpack_require__(/*! regenerator-runtime */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/regenerator-runtime/runtime.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/yanzhu/Documents/Project/new/juuyan.org/node_modules/regenerator-runtime/runtime.js ***!
-  \**************************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/yanzhu/Documents/Project/juuyan.org/node_modules/regenerator-runtime/runtime.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
